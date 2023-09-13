@@ -1,5 +1,5 @@
 # Git_course
-Learn Git and GitHub 
+Learn Git and GitHub .
 
 
 
